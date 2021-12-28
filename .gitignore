@@ -29,21 +29,18 @@ node_modules
 # logs
 npm-debug.log
 
-rs-temp-info
+
 /rs-temp-info
-\rs-temp-info
-temp
 temp
 /temp
-\temp
 Temp
 !temp
-\!temp
 /!temp
 !Temp
-\!Temp
 /!Temp
+
 package-lock.json
 .gitattributes
-\.gitattributes
 /.gitattributes
+
+# "/" - игнор папки
