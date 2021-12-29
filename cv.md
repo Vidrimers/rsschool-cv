@@ -74,3 +74,12 @@
 * Stepik.org
     + ОСНОВЫ Html & CSS
 
+## Certificates
+
+<img src="https://vidrimers.github.io/img/cert/1.jpg" width="400">
+<img src="https://vidrimers.github.io/img/cert/2.jpg" width="400">
+<img src="https://vidrimers.github.io/img/cert/3.jpg" width="400">
+<img src="https://vidrimers.github.io/img/cert/4.jpg" width="400">
+<img src="https://vidrimers.github.io/img/cert/5.jpg" width="400">
+<img src="https://vidrimers.github.io/img/cert/6.jpg" width="400">
+<img src="https://vidrimers.github.io/img/cert/7.jpg" width="400">
