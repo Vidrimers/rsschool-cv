@@ -1,6 +1,8 @@
 
 
 # Yaroslav Shiryakov
+<img src="https://vidrimers.github.io/img/photo2.jpg" width=200>
+
 ## Junior Frontend Developer
 
 ---
@@ -32,3 +34,25 @@
 ---
 
 ## Skills
+
+> HTML
+
+> CSS
+
+> Gulp (собирал по видео с yt)
+
+> JavaScript preBasic
+
+> SASS
+
+> BEM
+
+> Adobe Photoshop
+
+> Figma
+
+---
+
+## Courses
+
+> STEPIK
