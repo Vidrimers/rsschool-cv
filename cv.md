@@ -4,7 +4,6 @@
 <img src="https://vidrimers.github.io/img/photo2.jpg" width=200>
 
 ## Junior Frontend Developer
-
 ---
 ## Contacts
 
@@ -55,4 +54,23 @@
 
 ## Courses
 
-> STEPIK
+* Дмитрий Лаврик
+    + Классическая вёрстка
+    + Javascript Интенсивный базовый курс
+---
+* От 0 до 1 Вадим Прокопчук
+    + Различные марафоны
+    + Верстка сайтов от 0 до 1
+---
+* Михаил Непомнящий
+    + Компетенция Верстальщик
+---
+* Sololearn
+    + HTML/CSS/JavaScript
+---
+* GeekBrains
+    + Веб-разработка для начинающих
+---
+* Stepik.org
+    + ОСНОВЫ Html & CSS
+
