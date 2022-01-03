@@ -4,8 +4,7 @@
 <img src="https://vidrimers.github.io/img/photo2.jpg" width=200>
 
 ## Junior Frontend Developer
----
-## Contacts
+### Contacts
 
 **Email:** vidrimers2@gmail.com
 
@@ -18,7 +17,7 @@
 **[My GitHub Page](https://vidrimers.github.io/)**
 
 ---
-## About me
+### About me
 
 Изучаю frontend разработку, чтобы полностью поменять род деятельности на то, что интересно мне
 
@@ -32,7 +31,7 @@
 
 ---
 
-## Skills
+### Skills
 
 > HTML
 
@@ -52,7 +51,7 @@
 
 ---
 
-## Courses
+### Courses
 
 * Дмитрий Лаврик
     + Классическая вёрстка
@@ -79,7 +78,7 @@
 * Stepik.org
     + ОСНОВЫ Html & CSS
 
-## Certificates
+### Certificates
 
 <img src="https://vidrimers.github.io/img/cert/1.jpg" width="400">
 <img src="https://vidrimers.github.io/img/cert/2.jpg" width="400">
