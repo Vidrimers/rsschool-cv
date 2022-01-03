@@ -1,1 +1,1 @@
-https://vidrimers.github.io/rsschool-cv
+https://vidrimers.github.io/rsschool-cv/cv
