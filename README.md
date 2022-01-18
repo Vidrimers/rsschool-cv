@@ -1,3 +1,3 @@
 https://vidrimers.github.io/rsschool-cv/cv
 
-<img src:"https://i.imgur.com/KPeoTpi.jpg" width=500>
+<img src="https://i.imgur.com/KPeoTpi.jpg" width=500>
