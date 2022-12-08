@@ -1,5 +1,5 @@
 # Yaroslav Shiryakov
-<img src="img/photo.jpg" width=400>
+<img src="./img/photo.png" width=400>
 
 ## Frontend Developer
 
