@@ -1,0 +1,56 @@
+.container{
+  max-width: 100rem;
+  margin: 0 auto;;
+}
+
+body{
+  font-family: 'Roboto Condensed', sans-serif;
+  background: #001100;
+  color: #049A00;
+  color: #639C5C;
+}
+
+.cv{}
+.cv__inner{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+.cv__name{
+  font-size: 4.8rem;
+  margin: 2rem 0;
+}
+.cv__photo{
+  margin: 0 auto;  
+  width: 25rem;
+  margin-bottom: 2rem;
+}
+.cv__title{
+  font-size: 3.8rem;
+  margin-bottom: 2rem;
+}
+.cv__subtitle{
+  font-size: 2.4rem;
+  margin-bottom: 1rem;
+}
+
+.contacts, .skills,.courses{
+  margin-bottom: 2rem;
+}
+
+.contacts__list,.courses__list{
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+.skills__list{
+  display: flex;
+  gap: 0.5rem;
+  justify-content: center;
+}
+.contacts__item,.skills__item,.cousrses__item{
+  font-size: 1.6rem;
+}
+.contacts__item span{
+  font-weight: bold;
+}
