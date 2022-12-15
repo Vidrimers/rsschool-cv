@@ -1,14 +1,42 @@
 .container{
-  max-width: 100rem;
+  max-width: 120rem;
   margin: 0 auto;;
 }
 
 body{
   font-family: 'Roboto Condensed', sans-serif;
   background: #001100;
-  color: #049A00;
   color: #639C5C;
 }
+
+
+.header{
+  padding: 2rem 0;
+  margin-bottom: 2rem;
+  background: #042e04;
+
+}
+.menu{
+
+}
+.menu__list{
+  display: flex;
+  justify-content: space-around;
+}
+.menu__item{
+
+}
+.menu__list-link{
+  text-transform: capitalize;
+  font-size: 2rem;
+  transition: all .5s;
+  padding: 1rem;
+}
+.menu__list-link:hover{
+  color: #d5e9d4;
+
+}
+
 
 .cv{}
 .cv__inner{
@@ -21,6 +49,8 @@ body{
   margin: 2rem 0;
 }
 .cv__photo{
+  display: block;
+  border-radius: 20%;
   margin: 0 auto;
   width: 25rem;
   margin-bottom: 2rem;
