@@ -63,7 +63,7 @@ a:hover{
 }
 
 
-.about,.contacts, .skills,.courses,.code{
+.about,.education,.contacts, .skills,.courses,.code{
   margin-bottom: 2rem;
 }
 
@@ -77,15 +77,13 @@ a:hover{
   gap: 0.5rem;
   justify-content: center;
 }
-.about__text,.contacts__item,.skills__item,.courses__item{
+.about__text,.education__text,.contacts__item,.skills__item,.courses__item{
   font-size: 1.6rem;
 }
 .contacts__item span{
   font-weight: bold;
 }
 
-.code{
-}
 .code__padding-2{
   padding-left: 0.2rem;
 }
