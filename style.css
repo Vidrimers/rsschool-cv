@@ -135,3 +135,6 @@ code p:last-child{
 .footer__list-link img{
   width: 8rem;
 }
+.footer__list-link .github-img{
+  width: 4rem;
+}
