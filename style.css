@@ -97,13 +97,14 @@ code{
   background: #042e0480;
   box-shadow: inset 8px 8px 4px -3px rgba(3,3,3,1);
 }
-code span{
+code .element-color{
   color: yellow;
 }
-code p{
+code > span{
+  display: block;
   margin-bottom: 1rem;
 }
-code p:last-child{
+code > span:last-child{
   margin-bottom: 0;
 }
 
