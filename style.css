@@ -1,0 +1,141 @@
+.container{
+  max-width: 120rem;
+  margin: 0 auto;
+  text-align: center;
+}
+
+body{
+  font-family: 'Roboto Condensed', sans-serif;
+  background: #001100;
+  color: #639C5C;
+}
+
+
+.header{
+  padding: 2rem 0;
+  margin-bottom: 2rem;
+  background: #042e04;
+}
+
+.subtitle{
+  font-size: 2.4rem;
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+.menu__list{
+  display: flex;
+  justify-content: space-around;
+}
+
+.menu__list-link{
+  text-transform: capitalize;
+  font-size: 2rem;
+  transition: all .5s;
+  padding: 1rem;
+}
+a:hover{
+  color: #d5e9d4 !important;
+}
+
+
+.hero__inner{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+.hero__name{
+  font-size: 4.8rem;
+  margin: 2rem 0;
+}
+.hero__photo{
+  display: block;
+  border-radius: 20%;
+  margin: 0 auto;
+  width: 25rem;
+  margin-bottom: 2rem;
+}
+.hero__title{
+  font-size: 3.8rem;
+  margin-bottom: 2rem;
+}
+
+
+.about,.education,.contacts, .skills,.courses,.code{
+  margin-bottom: 2rem;
+}
+
+.contacts__list,.courses__list{
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+.skills__list{
+  display: flex;
+  gap: 0.5rem;
+  justify-content: center;
+}
+.about__text,.education__text,.contacts__item,.skills__item,.courses__item{
+  font-size: 1.6rem;
+}
+.contacts__item span{
+  font-weight: bold;
+}
+
+.code__padding-2{
+  padding-left: 0.2rem;
+}
+.code__padding-8{
+  padding-left: 0.8rem;
+}
+code{
+  display: block;
+  margin: 0 auto;
+  font-size: 1.4rem;
+  padding: 2rem;
+  max-width: 50rem;
+  background: #042e0480;
+  box-shadow: inset 8px 8px 4px -3px rgba(3,3,3,1);
+}
+code .element-color{
+  color: yellow;
+}
+code > span{
+  display: block;
+  margin-bottom: 1rem;
+}
+code > span:last-child{
+  margin-bottom: 0;
+}
+
+
+.footer{
+  padding: 2rem 1rem;
+  background: rgb(63, 63, 63);
+  color: #000;
+}
+.footer__inner{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+}
+.footer__name{
+  font-size: 1.4rem;
+}
+.footer__list{
+  display: flex;
+  align-items: center;
+}
+.footer__item + .footer__item{
+  margin-left: 2rem;
+}
+.footer__list-link{
+  font-size: 1.4rem;
+}
+.footer__list-link img{
+  width: 8rem;
+}
+.footer__list-link .github-img{
+  width: 4rem;
+}
