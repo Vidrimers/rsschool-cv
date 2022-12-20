@@ -27,9 +27,7 @@ body{
   display: flex;
   justify-content: space-around;
 }
-.menu__item{
 
-}
 .menu__list-link{
   text-transform: capitalize;
   font-size: 2rem;
@@ -112,20 +110,28 @@ code p:last-child{
 
 .footer{
   padding: 2rem 1rem;
+  background: rgb(63, 63, 63);
+  color: #000;
 }
 .footer__inner{
   display: flex;
   justify-content: space-between;
+  align-items: center;
+
 }
 .footer__name{
   font-size: 1.4rem;
 }
 .footer__list{
   display: flex;
+  align-items: center;
 }
 .footer__item + .footer__item{
   margin-left: 2rem;
 }
 .footer__list-link{
   font-size: 1.4rem;
+}
+.footer__list-link img{
+  width: 8rem;
 }
